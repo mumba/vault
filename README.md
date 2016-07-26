@@ -1,8 +1,10 @@
-# Mumba Vault Development
+# HashiCorp Vault for CI Testing and Development
 
 ## Description
 
-The Mumba vault image for testing, auto unseal and adds default token
+Vault container for use in testing and continuous integration
+ - auto unseals
+ - adds default token of "testtoken"
 
 ## Installation 
 
