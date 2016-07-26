@@ -1,18 +1,17 @@
 ### HashiCorp Vault for CI Testing and Development
 
-Description
-
+### Description
 Vault container for use in testing and continuous integration
  - auto unseals
  - adds default token of "testtoken"
 
-## Installation 
+### Installation
 
 ```
 FROM mumba/vault-dev:latest
 ```
 
-## License
+### License
 
 MIT
 
